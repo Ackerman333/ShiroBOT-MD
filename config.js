@@ -20,7 +20,7 @@ global.price1 = '_*Sewa Payment*_\n_*Dana = 082148864989*_\n_*Contact me :*_\nwa
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/1e33fe14e1bd9b1959f46.jpg' //ini juga ganti 
+global.fotonya2 = 'https://telegra.ph/file/a0353a0aefa06a035628b.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = '3599828239' //ganti jadi apikey lu kalau expired
 global.wm = '© IRJA'
